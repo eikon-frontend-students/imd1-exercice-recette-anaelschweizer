@@ -1,0 +1,31 @@
+.gyozas {
+  color: #394713;
+  border-top: 5px #566b1c solid;
+  max-width: 125px;
+  padding: 0px;
+  font-family: Jockey One;
+  font-size: 48px;
+}
+
+.gyozas p {
+  margin-top: 0px;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: #566b1c;
+  font-size: 200px;
+  font-weight: 600;
+  margin: 0px;
+}
+h2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: #566b1c;
+  font-size: 48px;
+  font-weight: 600px;
+  border-bottom: 5px #566b1c solid;
+  max-width: 180px;
+}
+
+.ingredients p {
+}
